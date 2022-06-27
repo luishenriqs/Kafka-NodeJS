@@ -1,0 +1,16 @@
+{
+  "name": "certification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "sucrase-node src/index.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18",
+    "sucrase": "^3.21.1"
+  }
+}

@@ -25,3 +25,9 @@
 - A mensagem contém um "user_name" e um "course";
 - Envia uma mensagem para o tópico "certification-response";;
 - A resposta informa que o certificado foi gerado;
+
+## FONTE
+
+Code Challenge: Micro-serviços com Node e Kafka - RocketSeat
+
+https://www.youtube.com/watch?v=-H8pD7sMcfo
